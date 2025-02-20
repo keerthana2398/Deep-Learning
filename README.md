@@ -1,4 +1,4 @@
-# 🧠 Deep Learning
+# 🧠 Deep Learning Intro
 
 ## 📖 Introduction
 Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to automatically learn representations from data. It powers applications such as image recognition, natural language processing, and autonomous systems.
